@@ -16,12 +16,11 @@ Passionate and proactive Systems and Computing Engineering student with good tea
   <a href="https://github.com/watchers/SergioPardo55/SergioPardo55">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/watchers/SergioPardo55/SergioPardo55?color=f6eae4&labelColor=f8f0ec&style=for-the-badge&logo=eye&label=VISITORS&logoColor=gray"/></a>
 </p>
-<p align="left">
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioPardo55&show_icons=true&theme=transparent)
-</p>
-<p align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioPardo55)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+<img alt ="Sergio's GitHub Stats" ref= "https://github-readme-stats.vercel.app/api?username=SergioPardo55&show_icons=true&theme=transparent">
+<img alt ="Sergio's Top Languages" ref= "https://github-readme-stats.vercel.app/api/top-langs/?username=SergioPardo55">
+
+
   <!--
 **SergioPardo55/SergioPardo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
