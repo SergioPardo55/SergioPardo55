@@ -18,7 +18,7 @@ Passionate and proactive Systems and Computing Engineering student with good tea
 </p>
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioPardo55&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioPardo55)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SergioPardo55/SergioPardo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
