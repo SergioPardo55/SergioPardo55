@@ -17,7 +17,7 @@ Passionate and proactive Systems and Computing Engineering student with good tea
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/watchers/SergioPardo55/SergioPardo55?color=f6eae4&labelColor=f8f0ec&style=for-the-badge&logo=eye&label=VISITORS&logoColor=gray"/></a>
 </p>
 
-
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioPardo55&show_icons=true&theme=transparent)
 
 <!--
 **SergioPardo55/SergioPardo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
