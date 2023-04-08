@@ -12,7 +12,7 @@ Passionate and proactive Systems and Computing Engineering student with good tea
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center"> 
   <a href="https://github.com/SergioPardo55?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SergioPardo55?color=236ad3&labelColor=e4f6ea&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SergioPardo55?color=e4f6ea&labelColor=ecf8f0&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
   <a href="https://github.com/watchers/SergioPardo55/SergioPardo55">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/watchers/SergioPardo55/SergioPardo55?color=f6eae4&labelColor=f8f0ec&style=for-the-badge&logo=eye&label=VISITORS&logoColor=black"/></a>
 </p>
