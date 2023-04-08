@@ -20,7 +20,7 @@ Passionate and proactive Systems and Computing Engineering student with good tea
 
 <img alt="Sergio's GitHub Stats" align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SergioPardo55&show_icons=true&theme=transparent">
 
-<img alt="Sergio's Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioPardo55">
+<img alt="Sergio's Top Languages" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioPardo55&layout=compact">
 
 
   <!--
