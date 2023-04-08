@@ -13,8 +13,8 @@ Passionate and proactive Systems and Computing Engineering student with good tea
 <p align="center"> 
   <a href="https://github.com/SergioPardo55?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SergioPardo55?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://img.shields.io/github/watchers/SergioPardo55/SergioPardo55?label=VISITORS&style=for-the-badge">
-    <img alt="views" title="GitHub profile views" src="https://img.shields.io/github/watchers/SergioPardo55/SergioPardo55?label=VISITORS&style=for-the-badge"/></a>
+  <a href="https://github.com/watchers/SergioPardo55">
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com//github/watchers/SergioPardo55/SergioPardo55?color=236ad3label=VISITORS&style=for-the-badge"/></a>
 </p>
 
 
